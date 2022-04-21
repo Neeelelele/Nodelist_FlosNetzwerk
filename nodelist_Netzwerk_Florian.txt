@@ -1,0 +1,6 @@
+id,name,age,education,religion
+Florian,Florian,21,Abitur,evan
+Philipp,Philipp,19,Abitur,kath
+Stefanie,Stefanie,15,Hauptschule,evan
+Silvia,Silvia,60,Studium,evan
+Mark,Mark,20,Abitur,kath
